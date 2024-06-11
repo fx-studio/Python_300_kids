@@ -1,0 +1,12 @@
+# Chương 3: Danh sách (List)
+
+21. [Viết chương trình để tạo danh sách các số từ 1 đến 100.](./021.py)
+22. [Viết chương trình để thêm một phần tử vào cuối danh sách.](./022.py)
+23. [Viết chương trình để thêm một phần tử vào đầu danh sách.](./023.py)
+24. [Viết chương trình để xóa một phần tử khỏi danh sách.](./024.py)
+25. [Viết chương trình để sắp xếp danh sách theo thứ tự tăng dần.](./025.py)
+26. [Viết chương trình để sắp xếp danh sách theo thứ tự giảm dần.](./026.py)
+27. [Viết chương trình để tìm phần tử lớn nhất trong danh sách.](./027.py)
+28. [Viết chương trình để tìm phần tử nhỏ nhất trong danh sách.](./028.py)
+29. [Viết chương trình để tính tổng các phần tử trong danh sách.](./029.py)
+30. [Viết chương trình để đếm số lần xuất hiện của một phần tử trong danh sách.](./030.py)

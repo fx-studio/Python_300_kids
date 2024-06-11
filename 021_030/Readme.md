@@ -1,0 +1,12 @@
+# Chương 3: Danh sách (List)
+
+21. [Viết chương trình để tạo danh sách các số từ 1 đến 100.](./021.md)
+22. [Viết chương trình để thêm một phần tử vào cuối danh sách.](./022.md)
+23. [Viết chương trình để thêm một phần tử vào đầu danh sách.](./023.md)
+24. [Viết chương trình để xóa một phần tử khỏi danh sách.](./024.md)
+25. [Viết chương trình để sắp xếp danh sách theo thứ tự tăng dần.](./025.md)
+26. [Viết chương trình để sắp xếp danh sách theo thứ tự giảm dần.](./026.md)
+27. [Viết chương trình để tìm phần tử lớn nhất trong danh sách.](./027.md)
+28. [Viết chương trình để tìm phần tử nhỏ nhất trong danh sách.](./028.md)
+29. [Viết chương trình để tính tổng các phần tử trong danh sách.](./029.md)
+30. [Viết chương trình để đếm số lần xuất hiện của một phần tử trong danh sách.](./030.md)

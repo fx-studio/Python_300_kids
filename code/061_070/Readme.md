@@ -1,0 +1,12 @@
+# Chương 7 : Chuỗi (String)
+
+61. [Viết chương trình để tạo một chuỗi.](./061.py)
+62. [Viết chương trình để nối hai chuỗi.](./062.py)
+63. [Viết chương trình để lấy độ dài của chuỗi.](./063.py)
+64. [Viết chương trình để chuyển đổi chuỗi thành chữ hoa.](./064.py)
+65. [Viết chương trình để chuyển đổi chuỗi thành chữ thường.](./065.py)
+66. [Viết chương trình để đếm số lần xuất hiện của một ký tự trong chuỗi.](./066.py)
+67. [Viết chương trình để kiểm tra một chuỗi có chứa một từ không.](./067.py)
+68. [Viết chương trình để thay thế một từ trong chuỗi bằng từ khác.](./068.py)
+69. [Viết chương trình để tách chuỗi thành danh sách các từ.](./069.py)
+70. [Viết chương trình để nối các từ thành một chuỗi.](./070.py)
