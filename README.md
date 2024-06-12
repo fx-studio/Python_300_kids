@@ -4,7 +4,7 @@
 
 ## Xin chào !
 
-Đây là một cuốn sách nhỏ về lập trình và đối tượng hướng tới là dành cho các bạn học sinh có thể tự học Python. Sách không phải sách lý thuyết hay sách hướng dẫn. Chỉ đơn giản là tổng hợp kiến thức lập trình của mình vào trong 300 bài tập mà thôi.
+Đây là một cuốn sách nhỏ về lập trình Python, được thiết kế dành riêng cho các bạn học sinh tự học. Cuốn sách không chỉ đơn thuần là lý thuyết hay hướng dẫn, mà là một bộ sưu tập 300 bài tập thực hành. Mỗi bài tập là kết quả từ kinh nghiệm và kiến thức lập trình của mình, nhằm giúp các bạn rèn luyện và nắm vững kỹ năng Python một cách hiệu quả nhất.
 
 Với 300 bài tập đa dạng và thú vị, cuốn sách này giúp các em học sinh rèn luyện kỹ năng lập trình Python một cách hiệu quả. Từ những bài tập cơ bản cho đến những bài tập phức tạp hơn, cuốn sách mang đến cho các em những thử thách thú vị để phát triển tư duy logic và khả năng giải quyết vấn đề.
 
@@ -55,6 +55,8 @@ Thời đại bây giờ là sự bùng nổ của Trí tuệ nhân tạo. Thay 
 - [Chương 28: Bài tập về lập trình đồ họa cơ bản](./271_280/Readme.md)
 - [Chương 29: Khoa học dữ liệu cơ bản](./281_290/Readme.md)
 - [Chương 30: Xử lý ảnh](./291_300/Readme.md)
+
+- [Phụ lục: Mã nguồn bài tập](./code/Readme.md)
 
 ## Đóng góp
 
