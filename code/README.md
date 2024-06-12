@@ -2,7 +2,7 @@
 
 > _Đây là phần mã nguồn cho các bài viết. Bạn có thể tham khảo thêm từ chúng._
 
-- [Chào thế giới](./000.md)
+- [Chào thế giới](./000.py)
 - [Chương 1: Cấu trúc điều khiển](./001_010/Readme.md)
 - [Chương 2: Hàm](./011_020/Readme.md)
 - [Chương 3 : Danh sách (List)](./021_030/Readme.md)
