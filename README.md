@@ -56,7 +56,9 @@ Thời đại bây giờ là sự bùng nổ của Trí tuệ nhân tạo. Thay 
 - [Chương 29: Khoa học dữ liệu cơ bản](./281_290/Readme.md)
 - [Chương 30: Xử lý ảnh](./291_300/Readme.md)
 
-- [Phụ lục: Mã nguồn bài tập](./code/Readme.md)
+### Phụ lục
+
+- [Mã nguồn bài tập _(code files)_](./code)
 
 ## Đóng góp
 
