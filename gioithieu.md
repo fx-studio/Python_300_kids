@@ -4,7 +4,7 @@
 
 ## Xin chào !
 
-Đây là một cuốn sách nhỏ về lập trình và đối tượng hướng tới là dành cho các bạn học sinh có thể tự học Python. Sách không phải sách lý thuyết hay sách hướng dẫn. Chỉ đơn giản là tổng hợp kiến thức lập trình của mình vào trong 300 bài tập mà thôi.
+Đây là một cuốn sách nhỏ về lập trình Python, được thiết kế dành riêng cho các bạn học sinh tự học. Cuốn sách không chỉ đơn thuần là lý thuyết hay hướng dẫn, mà là một bộ sưu tập 300 bài tập thực hành. Mỗi bài tập là kết quả từ kinh nghiệm và kiến thức lập trình của tôi, nhằm giúp các bạn rèn luyện và nắm vững kỹ năng Python một cách hiệu quả nhất.
 
 Với 300 bài tập đa dạng và thú vị, cuốn sách này giúp các em học sinh rèn luyện kỹ năng lập trình Python một cách hiệu quả. Từ những bài tập cơ bản cho đến những bài tập phức tạp hơn, cuốn sách mang đến cho các em những thử thách thú vị để phát triển tư duy logic và khả năng giải quyết vấn đề.
 
