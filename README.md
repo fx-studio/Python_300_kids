@@ -58,7 +58,7 @@ Thời đại bây giờ là sự bùng nổ của Trí tuệ nhân tạo. Thay 
 
 ### Phụ lục
 
-- [Mã nguồn bài tập _(code files)_](./code)
+- [Mã nguồn bài tập _(code files)_](./code/README.md)
 
 ## Đóng góp
 
