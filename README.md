@@ -1,6 +1,6 @@
 # 300 Bài code thiếu nhi bằng Python
 
-> _Tiêu đề cuốn sách dựa theo một bí kíp võ công có trong bộ phim **"Tuyệt đỉnh Kungfu"** của Châu Tinh Trì._
+> _Tiêu đề cuốn sách dựa theo một bí kíp võ công có trong bộ phim **"Tây du ký"** của Châu Tinh Trì._
 
 ## Xin chào !
 
