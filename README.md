@@ -2,6 +2,10 @@
 
 > _Tiêu đề cuốn sách dựa theo một bí kíp võ công có trong bộ phim **"Tây du ký"** của Châu Tinh Trì._
 
+<a href="https://fxstudio.dev/300-bai-code-thieu-nhi-bang-python-ebook/" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://fxstudio.dev/wp-content/uploads/2024/06/Copy-of-300-Bai-code-thieu-nhi-bang-Python-655x1024.png" alt="300 Bài code thiếu nhi bằng Python" style="max-width: 100%; height: auto;">
+</a>
+
 ## Xin chào !
 
 Đây là một cuốn sách nhỏ về lập trình Python, được thiết kế dành riêng cho các bạn học sinh tự học. Cuốn sách không chỉ đơn thuần là lý thuyết hay hướng dẫn, mà là một bộ sưu tập 300 bài tập thực hành. Mỗi bài tập là kết quả từ kinh nghiệm và kiến thức lập trình của mình, nhằm giúp các bạn rèn luyện và nắm vững kỹ năng Python một cách hiệu quả nhất.
