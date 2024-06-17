@@ -23,7 +23,7 @@ Thời đại bây giờ là sự bùng nổ của Trí tuệ nhân tạo. Thay 
 ## Thông tin
 
 * Bài viết: [300 Bài code thiếu nhi bằng Python](https://fxstudio.dev/300-bai-code-thieu-nhi-bang-python-ebook/)
-* Version: **0.1.0**
+* Version: **1.0.0**
 * Python: **3.12.0**
 * Editor: **Visual Studio Code**
 * Ebook: [`*.epub` & `*.pdf`](https://drive.google.com/drive/folders/1rkVazGHkQiCJCVh2i9bXu2HZvUYtxh-b)
