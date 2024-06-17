@@ -2,9 +2,11 @@
 
 > _Tiêu đề cuốn sách dựa theo một bí kíp võ công có trong bộ phim **"Tây du ký"** của Châu Tinh Trì._
 
-<a href="https://fxstudio.dev/300-bai-code-thieu-nhi-bang-python-ebook/" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://fxstudio.dev/wp-content/uploads/2024/06/Copy-of-300-Bai-code-thieu-nhi-bang-Python-655x1024.png" alt="300 Bài code thiếu nhi bằng Python" style="max-width: 100%; height: auto;">
-</a>
+<div align="center">
+  <a href="https://fxstudio.dev/300-bai-code-thieu-nhi-bang-python-ebook/">
+    <img src="https://fxstudio.dev/wp-content/uploads/2024/06/Copy-of-300-Bai-code-thieu-nhi-bang-Python-655x1024.png" alt="300 Bài code thiếu nhi bằng Python" width="400">
+  </a>
+</div>
 
 ## Xin chào !
 
