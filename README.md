@@ -77,6 +77,12 @@ Mọi đóng góp & góp ý thì bạn có thể gửi [Pull Requests](https://g
 - Email: [contacts@fxstudio.dev](contacts@fxstudio.dev)
 - [Buy me a coffee!](https://fxstudio.dev/donate/)
 
+<div align="center">
+  <a href="https://fxstudio.dev/donate/">
+    <img src="https://fxstudio.dev/wp-content/uploads/2022/09/cropped-feature_bg_coffee.jpg" alt="300 Bài code thiếu nhi bằng Python" width="300">
+  </a>
+</div>
+
 ---
 
 > *Về bản quyền của Repo và mã nguồn trong repo là hoàn toàn miễn phí cho các mục đích phi lợi nhuận và học tập. Tất cả các hành vi sao chép hay sử dụng vì mục đích thương mại thì đều là vi phạm.*
